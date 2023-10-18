@@ -10,5 +10,6 @@ This project is a small simple Arduino circuit. It's a great way to start your j
 * 3 220 ohm resistor
 * 16 jump wires
 
+![circuit](https://github.com/rh8991/mixing_lights/blob/main/mixinglamp_circuit.png)
 ## Liscense
 [MIT](https://choosealicense.com/licenses/mit/)
